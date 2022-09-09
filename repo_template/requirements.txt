@@ -1,0 +1,10 @@
+numpy==1.21.6
+pandas==1.4.1
+glob2==0.7
+tensorflow==2.9.1
+python==3.9.12
+matplotlib==3.5.1
+pyod==1.0.4
+scikit_learn==1.0.2
+scipy==1.5.4
+torch==1.12.0
